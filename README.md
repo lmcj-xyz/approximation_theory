@@ -8,4 +8,4 @@
  nor
  [chebpy](https://github.com/chebpy/chebpy)
  since my aim is to use standard NumPy instead.
- They fun though.
+ They seem great though.
