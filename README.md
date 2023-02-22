@@ -10,3 +10,6 @@
  since my aim is to use standard NumPy instead.
  They seem great though.
 
+**IMPORTANT (I guess 🤷🏼):** In `requirements.txt` you will find:
+- `jupyterlab-vim`. If you don't use/like vim, then remove it from the requierements or change it in the settings of JupyerLab.
+- `jupyterlab-language-pack-es-ES`. If you don't want your interface in spanish then just don't change that in your settings, or remove this package from the requirements.

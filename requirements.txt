@@ -42,7 +42,9 @@ jupyter_server_fileid==0.7.0
 jupyter_server_terminals==0.4.4
 jupyter_server_ydoc==0.6.1
 jupyterlab==3.6.1
+jupyterlab-language-pack-es-ES==3.6.post0
 jupyterlab-pygments==0.2.2
+jupyterlab-vim==0.15.1
 jupyterlab_server==2.19.0
 kiwisolver==1.4.4
 MarkupSafe==2.1.2
